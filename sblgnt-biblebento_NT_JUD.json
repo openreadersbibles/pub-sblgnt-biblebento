@@ -22,9 +22,7 @@
       "lex_id": 505066,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Judah"
-        }
+        "_gloss": "Judah"
       },
       "phrasalGlosses": []
     },
@@ -47,9 +45,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -72,9 +68,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -97,9 +91,7 @@
       "lex_id": 500882,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "servant"
-        }
+        "_gloss": "servant"
       },
       "phrasalGlosses": []
     },
@@ -122,9 +114,7 @@
       "lex_id": 503541,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "brother"
-        }
+        "_gloss": "brother"
       },
       "phrasalGlosses": []
     },
@@ -147,9 +137,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -172,9 +160,7 @@
       "lex_id": 505039,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "James"
-        }
+        "_gloss": "James"
       },
       "phrasalGlosses": []
     },
@@ -197,9 +183,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -222,9 +206,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -247,9 +229,7 @@
       "lex_id": 501116,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "God"
-        }
+        "_gloss": "God"
       },
       "phrasalGlosses": []
     },
@@ -272,9 +252,7 @@
       "lex_id": 502226,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "father"
-        }
+        "_gloss": "father"
       },
       "phrasalGlosses": []
     },
@@ -297,9 +275,7 @@
       "lex_id": 503510,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to love"
-        }
+        "_gloss": "to love"
       },
       "phrasalGlosses": []
     },
@@ -322,9 +298,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -347,9 +321,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -372,9 +344,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -397,9 +367,7 @@
       "lex_id": 503170,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to keep"
-        }
+        "_gloss": "to keep"
       },
       "phrasalGlosses": []
     },
@@ -422,9 +390,7 @@
       "lex_id": 501451,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "called"
-        }
+        "_gloss": "called"
       },
       "phrasalGlosses": []
     },
@@ -447,9 +413,7 @@
       "lex_id": 504831,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "mercy"
-        }
+        "_gloss": "mercy"
       },
       "phrasalGlosses": []
     },
@@ -472,9 +436,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -497,9 +459,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -522,9 +482,7 @@
       "lex_id": 500937,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "peace"
-        }
+        "_gloss": "peace"
       },
       "phrasalGlosses": []
     },
@@ -547,9 +505,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -572,9 +528,7 @@
       "lex_id": 503497,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "love"
-        }
+        "_gloss": "love"
       },
       "phrasalGlosses": []
     },
@@ -597,9 +551,7 @@
       "lex_id": 502366,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to increase"
-        }
+        "_gloss": "to increase"
       },
       "phrasalGlosses": []
     },
@@ -622,9 +574,7 @@
       "lex_id": 503511,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "dearly loved one"
-        }
+        "_gloss": "dearly loved one"
       },
       "phrasalGlosses": []
     },
@@ -647,9 +597,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -672,9 +620,7 @@
       "lex_id": 502806,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "hurry"
-        }
+        "_gloss": "hurry"
       },
       "phrasalGlosses": []
     },
@@ -697,9 +643,7 @@
       "lex_id": 502394,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to do"
-        }
+        "_gloss": "to do"
       },
       "phrasalGlosses": []
     },
@@ -722,9 +666,7 @@
       "lex_id": 500623,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to write"
-        }
+        "_gloss": "to write"
       },
       "phrasalGlosses": []
     },
@@ -747,9 +689,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -772,9 +712,7 @@
       "lex_id": 502260,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "about"
-        }
+        "_gloss": "about"
       },
       "phrasalGlosses": []
     },
@@ -797,9 +735,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -822,9 +758,7 @@
       "lex_id": 501471,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "common"
-        }
+        "_gloss": "common"
       },
       "phrasalGlosses": []
     },
@@ -847,9 +781,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -872,9 +804,7 @@
       "lex_id": 503056,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "salvation"
-        }
+        "_gloss": "salvation"
       },
       "phrasalGlosses": []
     },
@@ -897,9 +827,7 @@
       "lex_id": 503658,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "necessity"
-        }
+        "_gloss": "necessity"
       },
       "phrasalGlosses": []
     },
@@ -922,9 +850,7 @@
       "lex_id": 504883,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to have"
-        }
+        "_gloss": "to have"
       },
       "phrasalGlosses": []
     },
@@ -947,9 +873,7 @@
       "lex_id": 500623,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to write"
-        }
+        "_gloss": "to write"
       },
       "phrasalGlosses": []
     },
@@ -972,9 +896,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -997,9 +919,7 @@
       "lex_id": 502155,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to ask"
-        }
+        "_gloss": "to ask"
       },
       "phrasalGlosses": []
     },
@@ -1022,9 +942,7 @@
       "lex_id": 504605,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to contend"
-        }
+        "_gloss": "to contend"
       },
       "phrasalGlosses": []
     },
@@ -1047,9 +965,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1072,9 +988,7 @@
       "lex_id": 504230,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "once"
-        }
+        "_gloss": "once"
       },
       "phrasalGlosses": []
     },
@@ -1097,9 +1011,7 @@
       "lex_id": 502146,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to hand over"
-        }
+        "_gloss": "to hand over"
       },
       "phrasalGlosses": []
     },
@@ -1122,9 +1034,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1147,9 +1057,7 @@
       "lex_id": 504222,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "holy"
-        }
+        "_gloss": "holy"
       },
       "phrasalGlosses": []
     },
@@ -1172,9 +1080,7 @@
       "lex_id": 502090,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "faith"
-        }
+        "_gloss": "faith"
       },
       "phrasalGlosses": []
     },
@@ -1197,9 +1103,7 @@
       "lex_id": 502199,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to slip in secretly"
-        }
+        "_gloss": "to slip in secretly"
       },
       "phrasalGlosses": []
     },
@@ -1222,9 +1126,7 @@
       "lex_id": 500570,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "for"
-        }
+        "_gloss": "for"
       },
       "phrasalGlosses": []
     },
@@ -1247,9 +1149,7 @@
       "lex_id": 503176,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "a certain one"
-        }
+        "_gloss": "a certain one"
       },
       "phrasalGlosses": []
     },
@@ -1272,9 +1172,7 @@
       "lex_id": 504165,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "human being"
-        }
+        "_gloss": "human being"
       },
       "phrasalGlosses": []
     },
@@ -1297,9 +1195,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1322,9 +1218,7 @@
       "lex_id": 502054,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "long ago"
-        }
+        "_gloss": "long ago"
       },
       "phrasalGlosses": []
     },
@@ -1347,9 +1241,7 @@
       "lex_id": 502473,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to write beforehand"
-        }
+        "_gloss": "to write beforehand"
       },
       "phrasalGlosses": []
     },
@@ -1372,9 +1264,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -1397,9 +1287,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -1422,9 +1310,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1447,9 +1333,7 @@
       "lex_id": 501510,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "judgment"
-        }
+        "_gloss": "judgment"
       },
       "phrasalGlosses": []
     },
@@ -1472,9 +1356,7 @@
       "lex_id": 504020,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "ungodly"
-        }
+        "_gloss": "ungodly"
       },
       "phrasalGlosses": []
     },
@@ -1497,9 +1379,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1522,9 +1402,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1547,9 +1425,7 @@
       "lex_id": 501116,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "God"
-        }
+        "_gloss": "God"
       },
       "phrasalGlosses": []
     },
@@ -1572,9 +1448,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -1597,9 +1471,7 @@
       "lex_id": 503376,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "grace"
-        }
+        "_gloss": "grace"
       },
       "phrasalGlosses": []
     },
@@ -1622,9 +1494,7 @@
       "lex_id": 501828,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to change"
-        }
+        "_gloss": "to change"
       },
       "phrasalGlosses": []
     },
@@ -1647,9 +1517,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -1672,9 +1540,7 @@
       "lex_id": 504018,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "debauchery"
-        }
+        "_gloss": "debauchery"
       },
       "phrasalGlosses": []
     },
@@ -1697,9 +1563,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -1722,9 +1586,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -1747,9 +1609,7 @@
       "lex_id": 501904,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "only"
-        }
+        "_gloss": "only"
       },
       "phrasalGlosses": []
     },
@@ -1772,9 +1632,7 @@
       "lex_id": 500709,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "master"
-        }
+        "_gloss": "master"
       },
       "phrasalGlosses": []
     },
@@ -1797,9 +1655,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -1822,9 +1678,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -1847,9 +1701,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -1872,9 +1724,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -1897,9 +1747,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -1922,9 +1770,7 @@
       "lex_id": 503997,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to deny"
-        }
+        "_gloss": "to deny"
       },
       "phrasalGlosses": []
     },
@@ -1947,9 +1793,7 @@
       "lex_id": 505330,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to remind"
-        }
+        "_gloss": "to remind"
       },
       "phrasalGlosses": []
     },
@@ -1972,9 +1816,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -1997,9 +1839,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -2022,9 +1862,7 @@
       "lex_id": 500533,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to wish"
-        }
+        "_gloss": "to wish"
       },
       "phrasalGlosses": []
     },
@@ -2047,9 +1885,7 @@
       "lex_id": 505199,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to see"
-        }
+        "_gloss": "to see"
       },
       "phrasalGlosses": []
     },
@@ -2072,9 +1908,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -2097,9 +1931,7 @@
       "lex_id": 504230,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "once"
-        }
+        "_gloss": "once"
       },
       "phrasalGlosses": []
     },
@@ -2122,9 +1954,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -2147,9 +1977,7 @@
       "lex_id": 505256,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "that"
-        }
+        "_gloss": "that"
       },
       "phrasalGlosses": []
     },
@@ -2172,9 +2000,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -2197,9 +2023,7 @@
       "lex_id": 501627,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "people"
-        }
+        "_gloss": "people"
       },
       "phrasalGlosses": []
     },
@@ -2222,9 +2046,7 @@
       "lex_id": 504345,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "of"
-        }
+        "_gloss": "of"
       },
       "phrasalGlosses": []
     },
@@ -2247,9 +2069,7 @@
       "lex_id": 500641,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "earth"
-        }
+        "_gloss": "earth"
       },
       "phrasalGlosses": []
     },
@@ -2272,9 +2092,7 @@
       "lex_id": 500004,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Egypt"
-        }
+        "_gloss": "Egypt"
       },
       "phrasalGlosses": []
     },
@@ -2297,9 +2115,7 @@
       "lex_id": 503087,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to save"
-        }
+        "_gloss": "to save"
       },
       "phrasalGlosses": []
     },
@@ -2322,9 +2138,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -2347,9 +2161,7 @@
       "lex_id": 500711,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "second"
-        }
+        "_gloss": "second"
       },
       "phrasalGlosses": []
     },
@@ -2372,9 +2184,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -2397,9 +2207,7 @@
       "lex_id": 501720,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "no"
-        }
+        "_gloss": "no"
       },
       "phrasalGlosses": []
     },
@@ -2422,9 +2230,7 @@
       "lex_id": 502334,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to believe"
-        }
+        "_gloss": "to believe"
       },
       "phrasalGlosses": []
     },
@@ -2447,9 +2253,7 @@
       "lex_id": 503976,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to destroy"
-        }
+        "_gloss": "to destroy"
       },
       "phrasalGlosses": []
     },
@@ -2472,9 +2276,7 @@
       "lex_id": 504121,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "angel"
-        }
+        "_gloss": "angel"
       },
       "phrasalGlosses": []
     },
@@ -2497,9 +2299,7 @@
       "lex_id": 503098,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -2522,9 +2322,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -2547,9 +2345,7 @@
       "lex_id": 501720,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "no"
-        }
+        "_gloss": "no"
       },
       "phrasalGlosses": []
     },
@@ -2572,9 +2368,7 @@
       "lex_id": 503170,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to keep"
-        }
+        "_gloss": "to keep"
       },
       "phrasalGlosses": []
     },
@@ -2597,9 +2391,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -2622,9 +2414,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -2647,9 +2437,7 @@
       "lex_id": 504006,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "beginning"
-        }
+        "_gloss": "beginning"
       },
       "phrasalGlosses": []
     },
@@ -2672,9 +2460,7 @@
       "lex_id": 503613,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -2697,9 +2483,7 @@
       "lex_id": 503915,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to leave behind"
-        }
+        "_gloss": "to leave behind"
       },
       "phrasalGlosses": []
     },
@@ -2722,9 +2506,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -2747,9 +2529,7 @@
       "lex_id": 505030,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "one's own"
-        }
+        "_gloss": "one's own"
       },
       "phrasalGlosses": []
     },
@@ -2772,9 +2552,7 @@
       "lex_id": 502005,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "dwelling"
-        }
+        "_gloss": "dwelling"
       },
       "phrasalGlosses": []
     },
@@ -2797,9 +2575,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -2822,9 +2598,7 @@
       "lex_id": 501513,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "judgment"
-        }
+        "_gloss": "judgment"
       },
       "phrasalGlosses": []
     },
@@ -2847,9 +2621,7 @@
       "lex_id": 501698,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "great"
-        }
+        "_gloss": "great"
       },
       "phrasalGlosses": []
     },
@@ -2872,9 +2644,7 @@
       "lex_id": 504947,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "day"
-        }
+        "_gloss": "day"
       },
       "phrasalGlosses": []
     },
@@ -2897,9 +2667,7 @@
       "lex_id": 500707,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "chain"
-        }
+        "_gloss": "chain"
       },
       "phrasalGlosses": []
     },
@@ -2922,9 +2690,7 @@
       "lex_id": 503494,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternal"
-        }
+        "_gloss": "eternal"
       },
       "phrasalGlosses": []
     },
@@ -2947,9 +2713,7 @@
       "lex_id": 505348,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "by"
-        }
+        "_gloss": "by"
       },
       "phrasalGlosses": []
     },
@@ -2972,9 +2736,7 @@
       "lex_id": 501060,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "blackness"
-        }
+        "_gloss": "blackness"
       },
       "phrasalGlosses": []
     },
@@ -2997,9 +2759,7 @@
       "lex_id": 503170,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to keep"
-        }
+        "_gloss": "to keep"
       },
       "phrasalGlosses": []
     },
@@ -3022,9 +2782,7 @@
       "lex_id": 505390,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "as"
-        }
+        "_gloss": "as"
       },
       "phrasalGlosses": []
     },
@@ -3047,9 +2805,7 @@
       "lex_id": 500327,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Sodom"
-        }
+        "_gloss": "Sodom"
       },
       "phrasalGlosses": []
     },
@@ -3072,9 +2828,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -3097,9 +2851,7 @@
       "lex_id": 500055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Gomorrah"
-        }
+        "_gloss": "Gomorrah"
       },
       "phrasalGlosses": []
     },
@@ -3122,9 +2874,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -3147,9 +2897,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -3172,9 +2920,7 @@
       "lex_id": 502260,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "about"
-        }
+        "_gloss": "about"
       },
       "phrasalGlosses": []
     },
@@ -3197,9 +2943,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -3222,9 +2966,7 @@
       "lex_id": 502652,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "city"
-        }
+        "_gloss": "city"
       },
       "phrasalGlosses": []
     },
@@ -3247,9 +2989,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -3272,9 +3012,7 @@
       "lex_id": 505240,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "like"
-        }
+        "_gloss": "like"
       },
       "phrasalGlosses": []
     },
@@ -3297,9 +3035,7 @@
       "lex_id": 503227,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "manner"
-        }
+        "_gloss": "manner"
       },
       "phrasalGlosses": []
     },
@@ -3322,9 +3058,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -3347,9 +3081,7 @@
       "lex_id": 504402,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to engage in sexual immorality"
-        }
+        "_gloss": "to engage in sexual immorality"
       },
       "phrasalGlosses": []
     },
@@ -3372,9 +3104,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -3397,9 +3127,7 @@
       "lex_id": 503847,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to go away"
-        }
+        "_gloss": "to go away"
       },
       "phrasalGlosses": []
     },
@@ -3422,9 +3150,7 @@
       "lex_id": 505129,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "behind"
-        }
+        "_gloss": "behind"
       },
       "phrasalGlosses": []
     },
@@ -3447,9 +3173,7 @@
       "lex_id": 502685,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "flesh"
-        }
+        "_gloss": "flesh"
       },
       "phrasalGlosses": []
     },
@@ -3472,9 +3196,7 @@
       "lex_id": 504894,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "other"
-        }
+        "_gloss": "other"
       },
       "phrasalGlosses": []
     },
@@ -3497,9 +3219,7 @@
       "lex_id": 502597,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be set before"
-        }
+        "_gloss": "to be set before"
       },
       "phrasalGlosses": []
     },
@@ -3522,9 +3242,7 @@
       "lex_id": 500712,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "example"
-        }
+        "_gloss": "example"
       },
       "phrasalGlosses": []
     },
@@ -3547,9 +3265,7 @@
       "lex_id": 502674,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "fire"
-        }
+        "_gloss": "fire"
       },
       "phrasalGlosses": []
     },
@@ -3572,9 +3288,7 @@
       "lex_id": 500409,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternal"
-        }
+        "_gloss": "eternal"
       },
       "phrasalGlosses": []
     },
@@ -3597,9 +3311,7 @@
       "lex_id": 500666,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "punishment"
-        }
+        "_gloss": "punishment"
       },
       "phrasalGlosses": []
     },
@@ -3622,9 +3334,7 @@
       "lex_id": 505281,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to experience"
-        }
+        "_gloss": "to experience"
       },
       "phrasalGlosses": []
     },
@@ -3647,9 +3357,7 @@
       "lex_id": 505183,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "likewise"
-        }
+        "_gloss": "likewise"
       },
       "phrasalGlosses": []
     },
@@ -3672,9 +3380,7 @@
       "lex_id": 501711,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -3697,9 +3403,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -3722,9 +3426,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -3747,9 +3449,7 @@
       "lex_id": 504531,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to dreams"
-        }
+        "_gloss": "to dreams"
       },
       "phrasalGlosses": []
     },
@@ -3772,9 +3472,7 @@
       "lex_id": 502685,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "flesh"
-        }
+        "_gloss": "flesh"
       },
       "phrasalGlosses": []
     },
@@ -3797,9 +3495,7 @@
       "lex_id": 501710,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and; indeed"
-        }
+        "_gloss": "and; indeed"
       },
       "phrasalGlosses": []
     },
@@ -3822,9 +3518,7 @@
       "lex_id": 501849,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to pollute"
-        }
+        "_gloss": "to pollute"
       },
       "phrasalGlosses": []
     },
@@ -3847,9 +3541,7 @@
       "lex_id": 501557,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "authority"
-        }
+        "_gloss": "authority"
       },
       "phrasalGlosses": []
     },
@@ -3872,9 +3564,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -3897,9 +3587,7 @@
       "lex_id": 503558,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to reject"
-        }
+        "_gloss": "to reject"
       },
       "phrasalGlosses": []
     },
@@ -3922,9 +3610,7 @@
       "lex_id": 500910,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "glory"
-        }
+        "_gloss": "glory"
       },
       "phrasalGlosses": []
     },
@@ -3947,9 +3633,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -3972,9 +3656,7 @@
       "lex_id": 500516,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to blaspheme"
-        }
+        "_gloss": "to blaspheme"
       },
       "phrasalGlosses": []
     },
@@ -3997,9 +3679,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -4022,9 +3702,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -4047,9 +3725,7 @@
       "lex_id": 500198,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Michael"
-        }
+        "_gloss": "Michael"
       },
       "phrasalGlosses": []
     },
@@ -4072,9 +3748,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -4097,9 +3771,7 @@
       "lex_id": 504005,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "archangel"
-        }
+        "_gloss": "archangel"
       },
       "phrasalGlosses": []
     },
@@ -4122,9 +3794,7 @@
       "lex_id": 505255,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "when"
-        }
+        "_gloss": "when"
       },
       "phrasalGlosses": []
     },
@@ -4147,9 +3817,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -4172,9 +3840,7 @@
       "lex_id": 500724,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "devilish"
-        }
+        "_gloss": "devilish"
       },
       "phrasalGlosses": []
     },
@@ -4197,9 +3863,7 @@
       "lex_id": 500760,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to make a distinction"
-        }
+        "_gloss": "to make a distinction"
       },
       "phrasalGlosses": []
     },
@@ -4222,9 +3886,7 @@
       "lex_id": 500763,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to reason"
-        }
+        "_gloss": "to reason"
       },
       "phrasalGlosses": []
     },
@@ -4247,9 +3909,7 @@
       "lex_id": 502260,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "about"
-        }
+        "_gloss": "about"
       },
       "phrasalGlosses": []
     },
@@ -4272,9 +3932,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -4297,9 +3955,7 @@
       "lex_id": 500202,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Moses"
-        }
+        "_gloss": "Moses"
       },
       "phrasalGlosses": []
     },
@@ -4322,9 +3978,7 @@
       "lex_id": 503088,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "body"
-        }
+        "_gloss": "body"
       },
       "phrasalGlosses": []
     },
@@ -4347,9 +4001,7 @@
       "lex_id": 502028,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "no"
-        }
+        "_gloss": "no"
       },
       "phrasalGlosses": []
     },
@@ -4372,9 +4024,7 @@
       "lex_id": 503181,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to dare"
-        }
+        "_gloss": "to dare"
       },
       "phrasalGlosses": []
     },
@@ -4397,9 +4047,7 @@
       "lex_id": 501513,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "judgment"
-        }
+        "_gloss": "judgment"
       },
       "phrasalGlosses": []
     },
@@ -4422,9 +4070,7 @@
       "lex_id": 504726,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to bring upon"
-        }
+        "_gloss": "to bring upon"
       },
       "phrasalGlosses": []
     },
@@ -4447,9 +4093,7 @@
       "lex_id": 500517,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "blasphemy"
-        }
+        "_gloss": "blasphemy"
       },
       "phrasalGlosses": []
     },
@@ -4472,9 +4116,7 @@
       "lex_id": 503613,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -4497,9 +4139,7 @@
       "lex_id": 501599,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "say"
-        }
+        "_gloss": "say"
       },
       "phrasalGlosses": []
     },
@@ -4522,9 +4162,7 @@
       "lex_id": 504720,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to rebuke"
-        }
+        "_gloss": "to rebuke"
       },
       "phrasalGlosses": []
     },
@@ -4547,9 +4185,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -4572,9 +4208,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -4597,9 +4231,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -4622,9 +4254,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -4647,9 +4277,7 @@
       "lex_id": 505252,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "how great"
-        }
+        "_gloss": "how great"
       },
       "phrasalGlosses": []
     },
@@ -4672,9 +4300,7 @@
       "lex_id": 501710,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and; indeed"
-        }
+        "_gloss": "and; indeed"
       },
       "phrasalGlosses": []
     },
@@ -4697,9 +4323,7 @@
       "lex_id": 502028,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "no"
-        }
+        "_gloss": "no"
       },
       "phrasalGlosses": []
     },
@@ -4722,9 +4346,7 @@
       "lex_id": 502023,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to know"
-        }
+        "_gloss": "to know"
       },
       "phrasalGlosses": []
     },
@@ -4747,9 +4369,7 @@
       "lex_id": 500516,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to blaspheme"
-        }
+        "_gloss": "to blaspheme"
       },
       "phrasalGlosses": []
     },
@@ -4772,9 +4392,7 @@
       "lex_id": 505252,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "how great"
-        }
+        "_gloss": "how great"
       },
       "phrasalGlosses": []
     },
@@ -4797,9 +4415,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -4822,9 +4438,7 @@
       "lex_id": 503350,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "naturally"
-        }
+        "_gloss": "naturally"
       },
       "phrasalGlosses": []
     },
@@ -4847,9 +4461,7 @@
       "lex_id": 505390,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "as"
-        }
+        "_gloss": "as"
       },
       "phrasalGlosses": []
     },
@@ -4872,9 +4484,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -4897,9 +4507,7 @@
       "lex_id": 504148,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "unreasonable"
-        }
+        "_gloss": "unreasonable"
       },
       "phrasalGlosses": []
     },
@@ -4922,9 +4530,7 @@
       "lex_id": 501067,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "living creature"
-        }
+        "_gloss": "living creature"
       },
       "phrasalGlosses": []
     },
@@ -4947,9 +4553,7 @@
       "lex_id": 504599,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to understand"
-        }
+        "_gloss": "to understand"
       },
       "phrasalGlosses": []
     },
@@ -4972,9 +4576,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -4997,9 +4599,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -5022,9 +4622,7 @@
       "lex_id": 503281,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to destroy"
-        }
+        "_gloss": "to destroy"
       },
       "phrasalGlosses": []
     },
@@ -5047,9 +4645,7 @@
       "lex_id": 502030,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "woe!"
-        }
+        "_gloss": "woe!"
       },
       "phrasalGlosses": []
     },
@@ -5072,9 +4668,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -5097,9 +4691,7 @@
       "lex_id": 505256,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "that"
-        }
+        "_gloss": "that"
       },
       "phrasalGlosses": []
     },
@@ -5122,9 +4714,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5147,9 +4737,7 @@
       "lex_id": 505173,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "road"
-        }
+        "_gloss": "road"
       },
       "phrasalGlosses": []
     },
@@ -5172,9 +4760,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5197,9 +4783,7 @@
       "lex_id": 500102,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Cain"
-        }
+        "_gloss": "Cain"
       },
       "phrasalGlosses": []
     },
@@ -5222,9 +4806,7 @@
       "lex_id": 502418,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to come"
-        }
+        "_gloss": "to come"
       },
       "phrasalGlosses": []
     },
@@ -5247,9 +4829,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -5272,9 +4852,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5297,9 +4875,7 @@
       "lex_id": 502339,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "error"
-        }
+        "_gloss": "error"
       },
       "phrasalGlosses": []
     },
@@ -5322,9 +4898,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5347,9 +4921,7 @@
       "lex_id": 500010,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Balaam"
-        }
+        "_gloss": "Balaam"
       },
       "phrasalGlosses": []
     },
@@ -5372,9 +4944,7 @@
       "lex_id": 501860,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wage"
-        }
+        "_gloss": "wage"
       },
       "phrasalGlosses": []
     },
@@ -5397,9 +4967,7 @@
       "lex_id": 504422,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to pour out"
-        }
+        "_gloss": "to pour out"
       },
       "phrasalGlosses": []
     },
@@ -5422,9 +4990,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -5447,9 +5013,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5472,9 +5036,7 @@
       "lex_id": 503816,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "argument"
-        }
+        "_gloss": "argument"
       },
       "phrasalGlosses": []
     },
@@ -5497,9 +5059,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5522,9 +5082,7 @@
       "lex_id": 500138,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Korah"
-        }
+        "_gloss": "Korah"
       },
       "phrasalGlosses": []
     },
@@ -5547,9 +5105,7 @@
       "lex_id": 503976,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to destroy"
-        }
+        "_gloss": "to destroy"
       },
       "phrasalGlosses": []
     },
@@ -5572,9 +5128,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -5597,9 +5151,7 @@
       "lex_id": 500936,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be"
-        }
+        "_gloss": "to be"
       },
       "phrasalGlosses": []
     },
@@ -5622,9 +5174,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5647,9 +5197,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -5672,9 +5220,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -5697,9 +5243,7 @@
       "lex_id": 503497,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "love"
-        }
+        "_gloss": "love"
       },
       "phrasalGlosses": []
     },
@@ -5722,9 +5266,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -5747,9 +5289,7 @@
       "lex_id": 502799,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "blemish"
-        }
+        "_gloss": "blemish"
       },
       "phrasalGlosses": []
     },
@@ -5772,9 +5312,7 @@
       "lex_id": 502996,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to partake in a feast together"
-        }
+        "_gloss": "to partake in a feast together"
       },
       "phrasalGlosses": []
     },
@@ -5797,9 +5335,7 @@
       "lex_id": 504081,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "fearlessly"
-        }
+        "_gloss": "fearlessly"
       },
       "phrasalGlosses": []
     },
@@ -5822,9 +5358,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -5847,9 +5381,7 @@
       "lex_id": 502398,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to shepherd"
-        }
+        "_gloss": "to shepherd"
       },
       "phrasalGlosses": []
     },
@@ -5872,9 +5404,7 @@
       "lex_id": 501937,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "cloud"
-        }
+        "_gloss": "cloud"
       },
       "phrasalGlosses": []
     },
@@ -5897,9 +5427,7 @@
       "lex_id": 504172,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "arid"
-        }
+        "_gloss": "arid"
       },
       "phrasalGlosses": []
     },
@@ -5922,9 +5450,7 @@
       "lex_id": 505348,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "by"
-        }
+        "_gloss": "by"
       },
       "phrasalGlosses": []
     },
@@ -5947,9 +5473,7 @@
       "lex_id": 504159,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wind"
-        }
+        "_gloss": "wind"
       },
       "phrasalGlosses": []
     },
@@ -5972,9 +5496,7 @@
       "lex_id": 502189,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to take away"
-        }
+        "_gloss": "to take away"
       },
       "phrasalGlosses": []
     },
@@ -5997,9 +5519,7 @@
       "lex_id": 500652,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "tree"
-        }
+        "_gloss": "tree"
       },
       "phrasalGlosses": []
     },
@@ -6022,9 +5542,7 @@
       "lex_id": 503282,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "autumnal"
-        }
+        "_gloss": "autumnal"
       },
       "phrasalGlosses": []
     },
@@ -6047,9 +5565,7 @@
       "lex_id": 504140,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "unfruitful"
-        }
+        "_gloss": "unfruitful"
       },
       "phrasalGlosses": []
     },
@@ -6072,9 +5588,7 @@
       "lex_id": 500669,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "twice"
-        }
+        "_gloss": "twice"
       },
       "phrasalGlosses": []
     },
@@ -6097,9 +5611,7 @@
       "lex_id": 503899,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to die"
-        }
+        "_gloss": "to die"
       },
       "phrasalGlosses": []
     },
@@ -6122,9 +5634,7 @@
       "lex_id": 504404,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to uproot"
-        }
+        "_gloss": "to uproot"
       },
       "phrasalGlosses": []
     },
@@ -6147,9 +5657,7 @@
       "lex_id": 501592,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "waves"
-        }
+        "_gloss": "waves"
       },
       "phrasalGlosses": []
     },
@@ -6172,9 +5680,7 @@
       "lex_id": 504129,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wild"
-        }
+        "_gloss": "wild"
       },
       "phrasalGlosses": []
     },
@@ -6197,9 +5703,7 @@
       "lex_id": 501069,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "sea"
-        }
+        "_gloss": "sea"
       },
       "phrasalGlosses": []
     },
@@ -6222,9 +5726,7 @@
       "lex_id": 504621,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to foam up"
-        }
+        "_gloss": "to foam up"
       },
       "phrasalGlosses": []
     },
@@ -6247,9 +5749,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -6272,9 +5772,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -6297,9 +5795,7 @@
       "lex_id": 500398,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "shamefulness"
-        }
+        "_gloss": "shamefulness"
       },
       "phrasalGlosses": []
     },
@@ -6322,9 +5818,7 @@
       "lex_id": 504033,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "star"
-        }
+        "_gloss": "star"
       },
       "phrasalGlosses": []
     },
@@ -6347,9 +5841,7 @@
       "lex_id": 502355,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wanderer"
-        }
+        "_gloss": "wanderer"
       },
       "phrasalGlosses": []
     },
@@ -6372,9 +5864,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -6397,9 +5887,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -6422,9 +5910,7 @@
       "lex_id": 501060,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "blackness"
-        }
+        "_gloss": "blackness"
       },
       "phrasalGlosses": []
     },
@@ -6447,9 +5933,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -6472,9 +5956,7 @@
       "lex_id": 502771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "darkness"
-        }
+        "_gloss": "darkness"
       },
       "phrasalGlosses": []
     },
@@ -6497,9 +5979,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -6522,9 +6002,7 @@
       "lex_id": 500408,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternity"
-        }
+        "_gloss": "eternity"
       },
       "phrasalGlosses": []
     },
@@ -6547,9 +6025,7 @@
       "lex_id": 503170,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to keep"
-        }
+        "_gloss": "to keep"
       },
       "phrasalGlosses": []
     },
@@ -6572,9 +6048,7 @@
       "lex_id": 502573,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to prophesy"
-        }
+        "_gloss": "to prophesy"
       },
       "phrasalGlosses": []
     },
@@ -6597,9 +6071,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -6622,9 +6094,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -6647,9 +6117,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -6672,9 +6140,7 @@
       "lex_id": 504884,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "seventh"
-        }
+        "_gloss": "seventh"
       },
       "phrasalGlosses": []
     },
@@ -6697,9 +6163,7 @@
       "lex_id": 503965,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "from"
-        }
+        "_gloss": "from"
       },
       "phrasalGlosses": []
     },
@@ -6722,9 +6186,7 @@
       "lex_id": 504245,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Adam"
-        }
+        "_gloss": "Adam"
       },
       "phrasalGlosses": []
     },
@@ -6747,9 +6209,7 @@
       "lex_id": 504926,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Enoch"
-        }
+        "_gloss": "Enoch"
       },
       "phrasalGlosses": []
     },
@@ -6772,9 +6232,7 @@
       "lex_id": 501599,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "say"
-        }
+        "_gloss": "say"
       },
       "phrasalGlosses": []
     },
@@ -6797,9 +6255,7 @@
       "lex_id": 504983,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "look!"
-        }
+        "_gloss": "look!"
       },
       "phrasalGlosses": []
     },
@@ -6822,9 +6278,7 @@
       "lex_id": 504873,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to come"
-        }
+        "_gloss": "to come"
       },
       "phrasalGlosses": []
     },
@@ -6847,9 +6301,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -6872,9 +6324,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -6897,9 +6347,7 @@
       "lex_id": 504222,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "holy"
-        }
+        "_gloss": "holy"
       },
       "phrasalGlosses": []
     },
@@ -6922,9 +6370,7 @@
       "lex_id": 501892,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "myriad"
-        }
+        "_gloss": "myriad"
       },
       "phrasalGlosses": []
     },
@@ -6947,9 +6393,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -6972,9 +6416,7 @@
       "lex_id": 502394,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to do"
-        }
+        "_gloss": "to do"
       },
       "phrasalGlosses": []
     },
@@ -6997,9 +6439,7 @@
       "lex_id": 501513,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "judgment"
-        }
+        "_gloss": "judgment"
       },
       "phrasalGlosses": []
     },
@@ -7022,9 +6462,7 @@
       "lex_id": 501247,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "against"
-        }
+        "_gloss": "against"
       },
       "phrasalGlosses": []
     },
@@ -7047,9 +6485,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -7072,9 +6508,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -7097,9 +6531,7 @@
       "lex_id": 504427,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to expose"
-        }
+        "_gloss": "to expose"
       },
       "phrasalGlosses": []
     },
@@ -7122,9 +6554,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -7147,9 +6577,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -7172,9 +6600,7 @@
       "lex_id": 504020,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "ungodly"
-        }
+        "_gloss": "ungodly"
       },
       "phrasalGlosses": []
     },
@@ -7197,9 +6623,7 @@
       "lex_id": 502260,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "about"
-        }
+        "_gloss": "about"
       },
       "phrasalGlosses": []
     },
@@ -7222,9 +6646,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -7247,9 +6669,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -7272,9 +6692,7 @@
       "lex_id": 504868,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "work"
-        }
+        "_gloss": "work"
       },
       "phrasalGlosses": []
     },
@@ -7297,9 +6715,7 @@
       "lex_id": 504017,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "ungodliness"
-        }
+        "_gloss": "ungodliness"
       },
       "phrasalGlosses": []
     },
@@ -7322,9 +6738,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -7347,9 +6761,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -7372,9 +6784,7 @@
       "lex_id": 504019,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to do ungodly acts"
-        }
+        "_gloss": "to do ungodly acts"
       },
       "phrasalGlosses": []
     },
@@ -7397,9 +6807,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -7422,9 +6830,7 @@
       "lex_id": 502260,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "about"
-        }
+        "_gloss": "about"
       },
       "phrasalGlosses": []
     },
@@ -7447,9 +6853,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -7472,9 +6876,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -7497,9 +6899,7 @@
       "lex_id": 502756,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "hard"
-        }
+        "_gloss": "hard"
       },
       "phrasalGlosses": []
     },
@@ -7522,9 +6922,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -7547,9 +6945,7 @@
       "lex_id": 501615,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to speak"
-        }
+        "_gloss": "to speak"
       },
       "phrasalGlosses": []
     },
@@ -7572,9 +6968,7 @@
       "lex_id": 501247,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "against"
-        }
+        "_gloss": "against"
       },
       "phrasalGlosses": []
     },
@@ -7597,9 +6991,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -7622,9 +7014,7 @@
       "lex_id": 504108,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "sinful"
-        }
+        "_gloss": "sinful"
       },
       "phrasalGlosses": []
     },
@@ -7647,9 +7037,7 @@
       "lex_id": 504020,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "ungodly"
-        }
+        "_gloss": "ungodly"
       },
       "phrasalGlosses": []
     },
@@ -7672,9 +7060,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -7697,9 +7083,7 @@
       "lex_id": 500936,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be"
-        }
+        "_gloss": "to be"
       },
       "phrasalGlosses": []
     },
@@ -7722,9 +7106,7 @@
       "lex_id": 500618,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "grumbler"
-        }
+        "_gloss": "grumbler"
       },
       "phrasalGlosses": []
     },
@@ -7747,9 +7129,7 @@
       "lex_id": 501789,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "fault-finding"
-        }
+        "_gloss": "fault-finding"
       },
       "phrasalGlosses": []
     },
@@ -7772,9 +7152,7 @@
       "lex_id": 501247,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "against"
-        }
+        "_gloss": "against"
       },
       "phrasalGlosses": []
     },
@@ -7797,9 +7175,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -7822,9 +7198,7 @@
       "lex_id": 504658,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "desire"
-        }
+        "_gloss": "desire"
       },
       "phrasalGlosses": []
     },
@@ -7847,9 +7221,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -7872,9 +7244,7 @@
       "lex_id": 502418,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to come"
-        }
+        "_gloss": "to come"
       },
       "phrasalGlosses": []
     },
@@ -7897,9 +7267,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -7922,9 +7290,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -7947,9 +7313,7 @@
       "lex_id": 502865,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "mouth"
-        }
+        "_gloss": "mouth"
       },
       "phrasalGlosses": []
     },
@@ -7972,9 +7336,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -7997,9 +7359,7 @@
       "lex_id": 501615,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to speak"
-        }
+        "_gloss": "to speak"
       },
       "phrasalGlosses": []
     },
@@ -8022,9 +7382,7 @@
       "lex_id": 505280,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "boastful"
-        }
+        "_gloss": "boastful"
       },
       "phrasalGlosses": []
     },
@@ -8047,9 +7405,7 @@
       "lex_id": 501089,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be amazed"
-        }
+        "_gloss": "to be amazed"
       },
       "phrasalGlosses": []
     },
@@ -8072,9 +7428,7 @@
       "lex_id": 502608,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "face"
-        }
+        "_gloss": "face"
       },
       "phrasalGlosses": []
     },
@@ -8097,9 +7451,7 @@
       "lex_id": 505386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "value"
-        }
+        "_gloss": "value"
       },
       "phrasalGlosses": []
     },
@@ -8122,9 +7474,7 @@
       "lex_id": 503375,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "therefore"
-        }
+        "_gloss": "therefore"
       },
       "phrasalGlosses": []
     },
@@ -8147,9 +7497,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -8172,9 +7520,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -8197,9 +7543,7 @@
       "lex_id": 503511,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "dearly loved one"
-        }
+        "_gloss": "dearly loved one"
       },
       "phrasalGlosses": []
     },
@@ -8222,9 +7566,7 @@
       "lex_id": 501854,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to remember"
-        }
+        "_gloss": "to remember"
       },
       "phrasalGlosses": []
     },
@@ -8247,9 +7589,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8272,9 +7612,7 @@
       "lex_id": 505442,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "word"
-        }
+        "_gloss": "word"
       },
       "phrasalGlosses": []
     },
@@ -8297,9 +7635,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8322,9 +7658,7 @@
       "lex_id": 502492,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to tell beforehand"
-        }
+        "_gloss": "to tell beforehand"
       },
       "phrasalGlosses": []
     },
@@ -8347,9 +7681,7 @@
       "lex_id": 505348,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "by"
-        }
+        "_gloss": "by"
       },
       "phrasalGlosses": []
     },
@@ -8372,9 +7704,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8397,9 +7727,7 @@
       "lex_id": 503977,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "apostle"
-        }
+        "_gloss": "apostle"
       },
       "phrasalGlosses": []
     },
@@ -8422,9 +7750,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8447,9 +7773,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -8472,9 +7796,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -8497,9 +7819,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -8522,9 +7842,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -8547,9 +7865,7 @@
       "lex_id": 505256,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "that"
-        }
+        "_gloss": "that"
       },
       "phrasalGlosses": []
     },
@@ -8572,9 +7888,7 @@
       "lex_id": 501599,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "say"
-        }
+        "_gloss": "say"
       },
       "phrasalGlosses": []
     },
@@ -8597,9 +7911,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -8622,9 +7934,7 @@
       "lex_id": 504587,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "on"
-        }
+        "_gloss": "on"
       },
       "phrasalGlosses": []
     },
@@ -8647,9 +7957,7 @@
       "lex_id": 504876,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "last"
-        }
+        "_gloss": "last"
       },
       "phrasalGlosses": []
     },
@@ -8672,9 +7980,7 @@
       "lex_id": 503447,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "time"
-        }
+        "_gloss": "time"
       },
       "phrasalGlosses": []
     },
@@ -8697,9 +8003,7 @@
       "lex_id": 500936,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be"
-        }
+        "_gloss": "to be"
       },
       "phrasalGlosses": []
     },
@@ -8722,9 +8026,7 @@
       "lex_id": 504463,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "scoffer"
-        }
+        "_gloss": "scoffer"
       },
       "phrasalGlosses": []
     },
@@ -8747,9 +8049,7 @@
       "lex_id": 501247,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "against"
-        }
+        "_gloss": "against"
       },
       "phrasalGlosses": []
     },
@@ -8772,9 +8072,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8797,9 +8095,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -8822,9 +8118,7 @@
       "lex_id": 504658,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "desire"
-        }
+        "_gloss": "desire"
       },
       "phrasalGlosses": []
     },
@@ -8847,9 +8141,7 @@
       "lex_id": 502418,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to come"
-        }
+        "_gloss": "to come"
       },
       "phrasalGlosses": []
     },
@@ -8872,9 +8164,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8897,9 +8187,7 @@
       "lex_id": 504017,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "ungodliness"
-        }
+        "_gloss": "ungodliness"
       },
       "phrasalGlosses": []
     },
@@ -8922,9 +8210,7 @@
       "lex_id": 502051,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "this"
-        }
+        "_gloss": "this"
       },
       "phrasalGlosses": []
     },
@@ -8947,9 +8233,7 @@
       "lex_id": 500936,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be"
-        }
+        "_gloss": "to be"
       },
       "phrasalGlosses": []
     },
@@ -8972,9 +8256,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -8997,9 +8279,7 @@
       "lex_id": 503893,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to divide"
-        }
+        "_gloss": "to divide"
       },
       "phrasalGlosses": []
     },
@@ -9022,9 +8302,7 @@
       "lex_id": 503486,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "physical"
-        }
+        "_gloss": "physical"
       },
       "phrasalGlosses": []
     },
@@ -9047,9 +8325,7 @@
       "lex_id": 502386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wind"
-        }
+        "_gloss": "wind"
       },
       "phrasalGlosses": []
     },
@@ -9072,9 +8348,7 @@
       "lex_id": 501720,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "no"
-        }
+        "_gloss": "no"
       },
       "phrasalGlosses": []
     },
@@ -9097,9 +8371,7 @@
       "lex_id": 504883,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to have"
-        }
+        "_gloss": "to have"
       },
       "phrasalGlosses": []
     },
@@ -9122,9 +8394,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -9147,9 +8417,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -9172,9 +8440,7 @@
       "lex_id": 503511,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "dearly loved one"
-        }
+        "_gloss": "dearly loved one"
       },
       "phrasalGlosses": []
     },
@@ -9197,9 +8463,7 @@
       "lex_id": 504737,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to build up"
-        }
+        "_gloss": "to build up"
       },
       "phrasalGlosses": []
     },
@@ -9222,9 +8486,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -9247,9 +8509,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -9272,9 +8532,7 @@
       "lex_id": 504222,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "holy"
-        }
+        "_gloss": "holy"
       },
       "phrasalGlosses": []
     },
@@ -9297,9 +8555,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -9322,9 +8578,7 @@
       "lex_id": 502090,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "faith"
-        }
+        "_gloss": "faith"
       },
       "phrasalGlosses": []
     },
@@ -9347,9 +8601,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -9372,9 +8624,7 @@
       "lex_id": 502386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "wind"
-        }
+        "_gloss": "wind"
       },
       "phrasalGlosses": []
     },
@@ -9397,9 +8647,7 @@
       "lex_id": 504222,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "holy"
-        }
+        "_gloss": "holy"
       },
       "phrasalGlosses": []
     },
@@ -9422,9 +8670,7 @@
       "lex_id": 502527,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to pray"
-        }
+        "_gloss": "to pray"
       },
       "phrasalGlosses": []
     },
@@ -9447,9 +8693,7 @@
       "lex_id": 504771,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "himself"
-        }
+        "_gloss": "himself"
       },
       "phrasalGlosses": []
     },
@@ -9472,9 +8716,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -9497,9 +8739,7 @@
       "lex_id": 503497,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "love"
-        }
+        "_gloss": "love"
       },
       "phrasalGlosses": []
     },
@@ -9522,9 +8762,7 @@
       "lex_id": 501116,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "God"
-        }
+        "_gloss": "God"
       },
       "phrasalGlosses": []
     },
@@ -9547,9 +8785,7 @@
       "lex_id": 503170,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to keep"
-        }
+        "_gloss": "to keep"
       },
       "phrasalGlosses": []
     },
@@ -9572,9 +8808,7 @@
       "lex_id": 502520,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to receive"
-        }
+        "_gloss": "to receive"
       },
       "phrasalGlosses": []
     },
@@ -9597,9 +8831,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -9622,9 +8854,7 @@
       "lex_id": 504831,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "mercy"
-        }
+        "_gloss": "mercy"
       },
       "phrasalGlosses": []
     },
@@ -9647,9 +8877,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -9672,9 +8900,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -9697,9 +8923,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -9722,9 +8946,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -9747,9 +8969,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -9772,9 +8992,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -9797,9 +9015,7 @@
       "lex_id": 501058,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "life"
-        }
+        "_gloss": "life"
       },
       "phrasalGlosses": []
     },
@@ -9822,9 +9038,7 @@
       "lex_id": 500409,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternal"
-        }
+        "_gloss": "eternal"
       },
       "phrasalGlosses": []
     },
@@ -9847,9 +9061,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -9872,9 +9084,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -9897,9 +9107,7 @@
       "lex_id": 501710,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and; indeed"
-        }
+        "_gloss": "and; indeed"
       },
       "phrasalGlosses": []
     },
@@ -9922,9 +9130,7 @@
       "lex_id": 504435,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to show mercy"
-        }
+        "_gloss": "to show mercy"
       },
       "phrasalGlosses": []
     },
@@ -9947,9 +9153,7 @@
       "lex_id": 500760,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to make a distinction"
-        }
+        "_gloss": "to make a distinction"
       },
       "phrasalGlosses": []
     },
@@ -9972,9 +9176,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -9997,9 +9199,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -10022,9 +9222,7 @@
       "lex_id": 503087,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to save"
-        }
+        "_gloss": "to save"
       },
       "phrasalGlosses": []
     },
@@ -10047,9 +9245,7 @@
       "lex_id": 504345,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "of"
-        }
+        "_gloss": "of"
       },
       "phrasalGlosses": []
     },
@@ -10072,9 +9268,7 @@
       "lex_id": 502674,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "fire"
-        }
+        "_gloss": "fire"
       },
       "phrasalGlosses": []
     },
@@ -10097,9 +9291,7 @@
       "lex_id": 504115,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to catch"
-        }
+        "_gloss": "to catch"
       },
       "phrasalGlosses": []
     },
@@ -10122,9 +9314,7 @@
       "lex_id": 505250,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "who"
-        }
+        "_gloss": "who"
       },
       "phrasalGlosses": []
     },
@@ -10147,9 +9337,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -10172,9 +9360,7 @@
       "lex_id": 504435,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to show mercy"
-        }
+        "_gloss": "to show mercy"
       },
       "phrasalGlosses": []
     },
@@ -10197,9 +9383,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -10222,9 +9406,7 @@
       "lex_id": 503363,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "fear"
-        }
+        "_gloss": "fear"
       },
       "phrasalGlosses": []
     },
@@ -10247,9 +9429,7 @@
       "lex_id": 501855,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to hate"
-        }
+        "_gloss": "to hate"
       },
       "phrasalGlosses": []
     },
@@ -10272,9 +9452,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -10297,9 +9475,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -10322,9 +9498,7 @@
       "lex_id": 503965,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "from"
-        }
+        "_gloss": "from"
       },
       "phrasalGlosses": []
     },
@@ -10347,9 +9521,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -10372,9 +9544,7 @@
       "lex_id": 502685,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "flesh"
-        }
+        "_gloss": "flesh"
       },
       "phrasalGlosses": []
     },
@@ -10397,9 +9567,7 @@
       "lex_id": 502800,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to corrupt"
-        }
+        "_gloss": "to corrupt"
       },
       "phrasalGlosses": []
     },
@@ -10422,9 +9590,7 @@
       "lex_id": 503411,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "tunic"
-        }
+        "_gloss": "tunic"
       },
       "phrasalGlosses": []
     },
@@ -10447,9 +9613,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -10472,9 +9636,7 @@
       "lex_id": 500648,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "but"
-        }
+        "_gloss": "but"
       },
       "phrasalGlosses": []
     },
@@ -10497,9 +9659,7 @@
       "lex_id": 500913,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to be able"
-        }
+        "_gloss": "to be able"
       },
       "phrasalGlosses": []
     },
@@ -10522,9 +9682,7 @@
       "lex_id": 503343,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to obey"
-        }
+        "_gloss": "to obey"
       },
       "phrasalGlosses": []
     },
@@ -10547,9 +9705,7 @@
       "lex_id": 503063,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "you"
-        }
+        "_gloss": "you"
       },
       "phrasalGlosses": []
     },
@@ -10572,9 +9728,7 @@
       "lex_id": 504179,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "without falling"
-        }
+        "_gloss": "without falling"
       },
       "phrasalGlosses": []
     },
@@ -10597,9 +9751,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -10622,9 +9774,7 @@
       "lex_id": 505037,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to stand"
-        }
+        "_gloss": "to stand"
       },
       "phrasalGlosses": []
     },
@@ -10647,9 +9797,7 @@
       "lex_id": 501369,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in the sight of"
-        }
+        "_gloss": "in the sight of"
       },
       "phrasalGlosses": []
     },
@@ -10672,9 +9820,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -10697,9 +9843,7 @@
       "lex_id": 500910,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "glory"
-        }
+        "_gloss": "glory"
       },
       "phrasalGlosses": []
     },
@@ -10722,9 +9866,7 @@
       "lex_id": 500444,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "he"
-        }
+        "_gloss": "he"
       },
       "phrasalGlosses": []
     },
@@ -10747,9 +9889,7 @@
       "lex_id": 504156,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "unblemished"
-        }
+        "_gloss": "unblemished"
       },
       "phrasalGlosses": []
     },
@@ -10772,9 +9912,7 @@
       "lex_id": 504478,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "in"
-        }
+        "_gloss": "in"
       },
       "phrasalGlosses": []
     },
@@ -10797,9 +9935,7 @@
       "lex_id": 503506,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "delight"
-        }
+        "_gloss": "delight"
       },
       "phrasalGlosses": []
     },
@@ -10822,9 +9958,7 @@
       "lex_id": 501904,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "only"
-        }
+        "_gloss": "only"
       },
       "phrasalGlosses": []
     },
@@ -10847,9 +9981,7 @@
       "lex_id": 501116,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "God"
-        }
+        "_gloss": "God"
       },
       "phrasalGlosses": []
     },
@@ -10872,9 +10004,7 @@
       "lex_id": 503054,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Savior"
-        }
+        "_gloss": "Savior"
       },
       "phrasalGlosses": []
     },
@@ -10897,9 +10027,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -10922,9 +10050,7 @@
       "lex_id": 500723,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "through"
-        }
+        "_gloss": "through"
       },
       "phrasalGlosses": []
     },
@@ -10947,9 +10073,7 @@
       "lex_id": 505055,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Jesus"
-        }
+        "_gloss": "Jesus"
       },
       "phrasalGlosses": []
     },
@@ -10972,9 +10096,7 @@
       "lex_id": 500386,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "Christ"
-        }
+        "_gloss": "Christ"
       },
       "phrasalGlosses": []
     },
@@ -10997,9 +10119,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -11022,9 +10142,7 @@
       "lex_id": 501579,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "lord"
-        }
+        "_gloss": "lord"
       },
       "phrasalGlosses": []
     },
@@ -11047,9 +10165,7 @@
       "lex_id": 504338,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "I"
-        }
+        "_gloss": "I"
       },
       "phrasalGlosses": []
     },
@@ -11072,9 +10188,7 @@
       "lex_id": 500910,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "glory"
-        }
+        "_gloss": "glory"
       },
       "phrasalGlosses": []
     },
@@ -11097,9 +10211,7 @@
       "lex_id": 501778,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "majesty"
-        }
+        "_gloss": "majesty"
       },
       "phrasalGlosses": []
     },
@@ -11122,9 +10234,7 @@
       "lex_id": 501507,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "power"
-        }
+        "_gloss": "power"
       },
       "phrasalGlosses": []
     },
@@ -11147,9 +10257,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -11172,9 +10280,7 @@
       "lex_id": 504572,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "authority"
-        }
+        "_gloss": "authority"
       },
       "phrasalGlosses": []
     },
@@ -11197,9 +10303,7 @@
       "lex_id": 502589,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "before"
-        }
+        "_gloss": "before"
       },
       "phrasalGlosses": []
     },
@@ -11222,9 +10326,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -11247,9 +10349,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -11272,9 +10372,7 @@
       "lex_id": 500408,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternity"
-        }
+        "_gloss": "eternity"
       },
       "phrasalGlosses": []
     },
@@ -11297,9 +10395,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -11322,9 +10418,7 @@
       "lex_id": 501988,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "now"
-        }
+        "_gloss": "now"
       },
       "phrasalGlosses": []
     },
@@ -11347,9 +10441,7 @@
       "lex_id": 501182,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "and"
-        }
+        "_gloss": "and"
       },
       "phrasalGlosses": []
     },
@@ -11372,9 +10464,7 @@
       "lex_id": 500942,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "to"
-        }
+        "_gloss": "to"
       },
       "phrasalGlosses": []
     },
@@ -11397,9 +10487,7 @@
       "lex_id": 502672,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "all"
-        }
+        "_gloss": "all"
       },
       "phrasalGlosses": []
     },
@@ -11422,9 +10510,7 @@
       "lex_id": 505167,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "the"
-        }
+        "_gloss": "the"
       },
       "phrasalGlosses": []
     },
@@ -11447,9 +10533,7 @@
       "lex_id": 500408,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "eternity"
-        }
+        "_gloss": "eternity"
       },
       "phrasalGlosses": []
     },
@@ -11472,9 +10556,7 @@
       "lex_id": 503634,
       "gloss": {
         "type": "word",
-        "content": {
-          "gloss": "amen"
-        }
+        "_gloss": "amen"
       },
       "phrasalGlosses": []
     }
