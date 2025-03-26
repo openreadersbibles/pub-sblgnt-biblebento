@@ -12,7 +12,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: |
-            sblgnt-biblebento_NT_JUD.tex
+            sblgnt-biblebento_NT_TIT.tex
           latexmk_use_xelatex: true
           continue_on_error: true
           extra_fonts: |
@@ -24,4 +24,5 @@ jobs:
           publish_dir: ./
           publish_branch: gh-pages
           destination_dir: ''
-          keep_files: true
+          keep_files: false
+          exclude_assets: '**.xdv,**.log,**.fls,**.fdb_latexmk,**.aux'
