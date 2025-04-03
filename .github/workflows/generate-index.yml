@@ -1,0 +1,65 @@
+name: Generate Index for gh-pages
+
+on:
+  push:
+    branches:
+      - gh-pages
+  workflow_dispatch:
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+
+      # Step 2: Set up Node.js (optional, for scripting)
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      # Step 3: Generate index.html files
+      - name: Generate index.html files
+        run: |
+          # Iterate over each folder in the gh-pages branch
+          for dir in $(find . -type d); do
+            # Skip the root directory
+            if [ "$dir" = "." ]; then
+              continue
+            fi
+
+            # Create an index.html file in the folder
+            index_file="$dir/index.html"
+            echo "<!DOCTYPE html>" > $index_file
+            echo "<html>" >> $index_file
+            echo "<head><title>Index of $dir</title></head>" >> $index_file
+            echo "<body>" >> $index_file
+            echo "<h1>Index of $dir</h1>" >> $index_file
+            echo "<ul>" >> $index_file
+
+            # Add links to .html and .pdf files
+            for file in "$dir"/*.{html,pdf}; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                echo "<li><a href=\"$filename\">$filename</a></li>" >> $index_file
+              fi
+            done
+
+            echo "</ul>" >> $index_file
+            echo "</body>" >> $index_file
+            echo "</html>" >> $index_file
+          done
+
+      # Step 4: Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Generate index.html files for gh-pages" || echo "No changes to commit"
+          git push
