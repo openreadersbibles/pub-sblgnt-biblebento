@@ -1,7 +1,7 @@
 {
   "project_id": "sblgnt-biblebento",
-  "project_title": "SBLGNT English Glosses from SBLGNT-add-ons",
-  "project_description": "Not my data.",
+  "project_title": "English New Testament (Bible Bento)",
+  "project_description": "This project provides a version of the New Testament with English glosses available in the [Bible Bento](https://github.com/eliranwong/SBLGNT-add-ons) project. There is one gloss for each lexical item, but only one gloss per lexical item.",
   "layout_direction": "ltr",
   "frequency_thresholds": {
     "NT": 30,
