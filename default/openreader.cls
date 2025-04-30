@@ -27,7 +27,7 @@
 \titleformat{\section}[runin]{\selectmainlanguage\bfseries}{}{}{}
 
 \RequirePackage{fontspec}
-\RequirePackage[top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\RequirePackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
 
 
 \RequirePackage{fancyhdr}
@@ -174,6 +174,7 @@
     }%
 }
 
+\def\Form#1{\AsGreekOrHebrew{#1}}
 
 % Typeset a footnote that only has a parsing
 \def\FnParse#1#2{%
@@ -192,7 +193,6 @@
 % Typeset a footnote that shows the parsing, lexical form, and a gloss
 \def\FnParseFormGloss#1#2#3#4{%
     \FnGenericTemplate{#1}{%
-        \noindent%
         \Parse{#2}\ % print the parsing
         \AsGreekOrHebrew{#3}\ % print the lexical form
         \Gloss{#4}%
@@ -229,7 +229,7 @@
 % This will of course always be Hebrew.
 \def\KetivMarker{\texthebrew{כת֗}}
 \def\QereMarker{\texthebrew{ק֗}}
-\def\FnKetivQere#1#2{\KetivMarker \texthebrew{#1} \QereMarker \texthebrew{#2}\ }
+\def\KetivQere#1#2{\texthebrew{\KetivMarker\ #1 \QereMarker\ #2}\ }
 
 \def\FnFreeform#1{\Gloss{#1}}
 
